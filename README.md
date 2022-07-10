@@ -1,5 +1,15 @@
 # AngularInventory
 
+## Topics/Concepts covered while building this application : 
+- [x] How to break app into components.
+- [x] How to make reusable components using inputs.
+- [x] How to handle user interactions, such as clicking on a component.
+
+## Deployed Link : [Live](https://angular-inventory-alpha.vercel.app/)
+
+## Screenshots
+![img](https://github.com/kuluruvineeth/AngularGuide/blob/2.angular-inventory/src/screenshots/img1.PNG)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.17.
 
 ## Development server
