@@ -2,6 +2,11 @@
 
 ## Topics/Concepts covered while building this application : 
 - [x] Building custom components.
+- [x] Split your app into components.
+- [x] Create the views.
+- [x] Define our models.
+- [x] Display our models.
+- [x] Add Interaction.
 - [x] Accepting user input from forms.
 - [x] Rendering lists of objects into views.
 - [x] Intercepting user clicks and acting on them.
