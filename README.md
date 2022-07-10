@@ -10,7 +10,8 @@
 ## Deployed Link : [Live](https://angular-reddit-bz7eycfdv-kuluruvineeth.vercel.app/)
 
 ## Screenshots
-
+![img](https://github.com/kuluruvineeth/AngularGuide/blob/master/src/screenshots/img.PNG)
+![img1](https://github.com/kuluruvineeth/AngularGuide/blob/master/src/screenshots/img1.PNG)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.17.
