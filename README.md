@@ -1,5 +1,18 @@
 # AngularReddit
 
+## Topics/Concepts covered while building this application : 
+- [x] Building custom components.
+- [x] Accepting user input from forms.
+- [x] Rendering lists of objects into views.
+- [x] Intercepting user clicks and acting on them.
+- [x] Deploying our app to server.
+
+## Deployed Link : [Live](https://angular-reddit-bz7eycfdv-kuluruvineeth.vercel.app/)
+
+## Screenshots
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.17.
 
 ## Development server
